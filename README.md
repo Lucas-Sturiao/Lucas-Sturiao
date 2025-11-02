@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Me chamo Lucas Tavares Sturião, tenho 22 anos, sou natural do Espírito Santo e criado no Rio de Janeiro. Concluí o ensino médio no Colágio Militar Brigadeiro Newton Braga, com o curso técnico em Enfermagem. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Sou apaixonado por tecnologia e desenvolvo projeto próprios e projetos Free-Lance.
+Me chamo Lucas Tavares Sturião, tenho 22 anos, nascido no Espírito Santo e criado no Rio de Janeiro. Concluí o ensino médio no Colágio Militar Brigadeiro Newton Braga, com o curso técnico em Enfermagem. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Sou apaixonado por tecnologia e desenvolvo projeto próprios e projetos Free-Lance.
 
 ---
 
