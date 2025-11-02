@@ -1,4 +1,4 @@
-# 👨🏾‍💻-Lucas Sturião 
+# Lucas Sturião 👨🏾‍💻
 
 **`Desenvolvedor Full-Stack`**
 
@@ -6,7 +6,7 @@ Me chamo Lucas Tavares Sturião, tenho 22 anos, nascido no Espírito Santo e cri
 
 ---
 
-### 🤖-Linguagens e Tecnologias
+### Linguagens e Tecnologias 🤖
 
 <img 
     align="left" 
@@ -149,9 +149,8 @@ Me chamo Lucas Tavares Sturião, tenho 22 anos, nascido no Espírito Santo e cri
 
 <br/>
 <br/>
-<br/>
 
-### 📊-Estatísticas
+### Estatísticas 📊
 
 <p>
   <img 
