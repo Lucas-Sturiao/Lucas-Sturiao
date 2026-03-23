@@ -1,8 +1,6 @@
-# 👨🏾‍💻 Lucas Sturião 
+# 👨🏾‍💻 Lucas Tavares 
 
 **`Desenvolvedor Full-Stack`**
-
-Me chamo Lucas Tavares Sturião, tenho 22 anos, nascido no Espírito Santo e criado no Rio de Janeiro. Concluí o ensino médio no Colégio Militar Brigadeiro Newton Braga, com o curso técnico em Enfermagem. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Sou apaixonado por tecnologia e desenvolvo projetos próprios e Free-Lancer's.
 
 ---
 
