@@ -142,20 +142,13 @@
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=lucas-sturiao&show_icons=true&theme=transparent&locale=pt-br" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=Lucas-Sturiao&show_icons=true&theme=transparent&locale=pt-br&hide_border=true" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Sturiao&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Sturiao&layout=compact&theme=transparent&hide_border=true&langs_count=9" 
   />
-
 </p>
