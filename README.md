@@ -142,13 +142,7 @@
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=Lucas-Sturiao&show_icons=true&theme=transparent&locale=pt-br&hide_border=true" 
-  />
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Sturiao&layout=compact&theme=transparent&hide_border=true&langs_count=9" 
-  />
-</p>
+![Estatísticas de Lucas](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Lucas-Sturiao&show_icons=true&theme=transparent&hide_border=true&locale=pt-br)
+![Linguagens de Lucas](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lucas-Sturiao&layout=compact&theme=transparent&hide_border=true&langs_count=9)
+
+![Status de Sequência](https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Sturiao&theme=transparent&hide_border=true)
