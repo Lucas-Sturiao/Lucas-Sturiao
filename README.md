@@ -1,4 +1,4 @@
-# 👨🏾‍💻 Lucas Tavares 
+# 👨🏾‍💻 Lucas Sturião 
 
 **`Desenvolvedor Full-Stack`**
 
