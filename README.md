@@ -142,7 +142,8 @@
 
 ### 📊 Estatísticas
 
-![Estatísticas de Lucas](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Lucas-Sturiao&show_icons=true&theme=transparent&hide_border=true&locale=pt-br)
+![Estatísticas de Lucas](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucas-Sturiao&theme=transparent)
+
 ![Linguagens de Lucas](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lucas-Sturiao&layout=compact&theme=transparent&hide_border=true&langs_count=9)
 
 ![Status de Sequência](https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Sturiao&theme=transparent&hide_border=true)
