@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  💡 Focado em Back-End, APIs e boas práticas <br>
+  💡 Focado em Back-End, APIs, Automação e Engenharia de IA <br>
   📚 Estudante de Análise e Desenvolvimento de Sistemas
 </p>
 
