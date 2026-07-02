@@ -53,6 +53,47 @@
 
 ---
 
+## 🤖 Inteligência Artificial
+
+### LLMs
+
+<p>
+  <img alt="Ollama" width="35px" src="https://cdn.simpleicons.org/ollama"/>
+  <img alt="LM Studio" width="35px" src="https://cdn.simpleicons.org/lmstudio"/>
+</p>
+
+### Frameworks
+
+<p>
+  <img alt="LangChain" width="35px" src="https://cdn.simpleicons.org/langchain"/>
+  <img alt="LlamaIndex" width="35px" src="https://cdn.simpleicons.org/llamaindex"/>
+  <img alt="Hugging Face" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg"/>
+</p>
+
+### Machine Learning
+
+<p>
+  <img alt="TensorFlow" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+  <img alt="PyTorch" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+  <img alt="Scikit-Learn" width="35px" src="https://cdn.simpleicons.org/scikitlearn"/>
+</p>
+
+### Banco Vetorial
+
+<p>
+  <img alt="ChromaDB" width="35px" src="https://cdn.simpleicons.org/chromadb"/>
+  <img alt="FAISS" width="35px" src="https://cdn.simpleicons.org/meta"/>
+</p>
+
+### APIs
+
+<p>
+  <img alt="OpenAI" width="35px" src="https://cdn.simpleicons.org/openai"/>
+  <img alt="Google Gemini" width="35px" src="https://cdn.simpleicons.org/googlegemini"/>
+</p>
+
+---
+
 ## 📊 Estatísticas
 
 <p align="center">
