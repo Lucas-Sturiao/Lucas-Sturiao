@@ -1,26 +1,27 @@
 # 👨🏾‍💻 Lucas Sturião
 
 <p align="center">
-  <b>Desenvolvedor Full-Stack</b>
+  <b>Full-Stack Developer | AI Engineer</b>
 </p>
 
 <p align="center">
-  💡 Focado em Back-End, APIs, Automação e Engenharia de IA <br>
-  📚 Estudante de Análise e Desenvolvimento de Sistemas
+  💡 Passionate about Back-End Development, APIs, Automation, and AI Engineering
+  📚 Systems Analysis and Development Student
 </p>
 
 ---
 
-## 🚀 Tecnologias
+## 💻 Development
 
 ### 🧠 Back-End
 
 <p>
+  <img alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="FastAPI" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>
+  <img alt="Pandas" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
+  <img alt="Playwright" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"/>
   <img alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img alt="Spring" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <img alt="TensorFlow" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
-    <img alt="PyTorch" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
   <img alt="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img alt="Laravel" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
 </p>
@@ -30,71 +31,51 @@
 <p>
   <img alt="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img alt="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="Tailwind" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
   <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="TypeScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img alt="Next.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-  <img alt="Angular" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
 </p>
 
-### 🎨 UI / Estilo
+### ♾️ DevOps
 
 <p>
-  <img alt="Bootstrap" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  <img alt="Tailwind" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-</p>
-
-### ⚙️ Ferramentas
-
-<p>
-  <img alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img alt="jQuery" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
+  <img alt="Docker" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"/>
+  <img alt="Kubernetes" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg"/>
+  <img alt="Jenkins" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"/>
+  <img alt="AWS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+  <img alt="Grafana" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg"/>
 </p>
 
 ---
 
-## 🤖 Inteligência Artificial
+## 🤖 AI Engineering
 
 ### LLMs
 
-<p>
-  <img alt="Ollama" width="35px" src="https://cdn.simpleicons.org/ollama"/>
-  <img alt="LM Studio" width="35px" src="https://cdn.simpleicons.org/lmstudio"/>
-</p>
+![Llama](https://img.shields.io/badge/Llama-0467DF?style=for-the-badge)
+![Gemma](https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge)
 
 ### Frameworks
 
-<p>
-  <img alt="LangChain" width="35px" src="https://cdn.simpleicons.org/langchain"/>
-  <img alt="LlamaIndex" width="35px" src="https://cdn.simpleicons.org/llamaindex"/>
-  <img alt="Hugging Face" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg"/>
-</p>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge)
 
 ### Machine Learning
 
-<p>
-  <img alt="TensorFlow" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
-  <img alt="PyTorch" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
-  <img alt="Scikit-Learn" width="35px" src="https://cdn.simpleicons.org/scikitlearn"/>
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### Banco Vetorial
+### Vector Databases
 
-<p>
-  <img alt="ChromaDB" width="35px" src="https://cdn.simpleicons.org/chromadb"/>
-  <img alt="FAISS" width="35px" src="https://cdn.simpleicons.org/meta"/>
-</p>
-
-### APIs
-
-<p>
-  <img alt="OpenAI" width="35px" src="https://cdn.simpleicons.org/openai"/>
-  <img alt="Google Gemini" width="35px" src="https://cdn.simpleicons.org/googlegemini"/>
-</p>
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6C63FF?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0099CC?style=for-the-badge)
 
 ---
 
-## 📊 Estatísticas
+## 📊 Stats
 
 <p align="center">
   <img 
@@ -113,7 +94,7 @@
 
 ---
 
-## 📫 Contato
+## 📫 Contacts
 
 <p>
   <a href="mailto:lucasltstb@gmail.com">
@@ -127,5 +108,5 @@
 ---
 
 <p align="center">
-  ✨ Sempre aprendendo e evoluindo na área de tecnologia
+  ✨ Always learning and growing in technology
 </p>
