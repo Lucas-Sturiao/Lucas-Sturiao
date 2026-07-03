@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  💡 Passionate about Back-End Development, APIs, Automation, and AI Engineering
+  💡 Passionate about Back-End Development, APIs, Automation, and AI Engineering<br>
   📚 Systems Analysis and Development Student
 </p>
 
@@ -94,7 +94,7 @@
 
 ---
 
-## 📫 Contacts
+## 📫 Connect with Me
 
 <p>
   <a href="mailto:lucasltstb@gmail.com">
